@@ -1,0 +1,111 @@
+0
+FFFFFF_____FFF
+FFFFF/     \FF
+FFF_F\/'''''\F
+FF| \/  _  o \
+FF|    (_>   <
+FF|_/\       /
+FFFFF/\...../F
+FFFFF\____//FF
+1
+F____________F
+|            |
+| \|/  O \|/ |
+| (o)    (o) |
+|   c== O    |
+| O  .__.  ) |
+|   O       O|
+|____________|
+|    \ V /   |
+|     \|/    |
+|____________|
+2
+FFFFFFFFFFF__....__FFFFFFFFFFFFF
+FFFFFF.-~~/  \__/  \~~-.FFFFFFFF
+FFFFF/_/``\__/  \__/``\_\.--.FFF
+FFFF/  \__/  \__/  \__/  \   o`.
+`==/\__/__\__/__\__/__\__/\`'--'
+FFF~/__/__/^^^^^^^^\__\__\~FFFFF
+3
+FF.-"""-.FFFFFFFFFFFFFFFFFFF
+F/      o\FFFFFFFFFFFFFFFFFF
+|    o   O).-.FFFFFFFFFFFFFF
+|       .-;(_/FFFFF.-.FFFFFF
+F\     /  /)).---._|  `\FFF,
+FF'.  '  /((       `'-./ _/|
+FFFF\  .'  )        .-.;`  /
+FFFFF'.             |  `\-'F
+FFFFFFF'._        -'    /FFF
+FFFFFFFFF``""--`------`FFFFF
+4
+FFFFFFFFF__,._FFFFFFF
+FFFFFFFF/  _  \FFFFFF
+FFFFFFF|  @ \  \FFooF
+FFFFFFFF\___/ .|__||F
+F__,..="^  . , "  , \
+<.__________________/
+5
+FFFF_FFFF_FFFF
+FFF(o)--(o)FFF
+FF/.______.\FF
+FF\________/FF
+F./        \.F
+( .        , )
+F\ \_\\//_/ /F
+FF~~FF~~FF~~FF
+6
+FFFFFFFFF/\FFFFFF,|FFFFFFFFFFFFFFFF
+FFFFFFFF:  \FF/\/ |FFF_FFFFFFFFFFFF
+FFFF.\FF|   :: /  | ,' |FFFFFFFFFFF
+FFFF| \ |   ||'/| ;'   |FFFFFFFFFFF
+FFFF:  \:   '// | |    |FFFFFFFFFFF
+FFFF:   \`.//:  ;\;    :FFFFFFFFFFF
+FFFF'    : : | /  `.  /___FFFFFFFFF
+FFFF\   | | `' ,   \;'   |FFFFFFFFF
+FFF/ `._; . /\      \    ;FFFFFFFFF
+FF:      / `. \   `  ._,'FFFFFFFFFF
+FF;      `-.'.',\/`.,:-.FFFFFFFFFFF
+FF)   `       '-.\-/ \\__>FFFFFFFFF
+FF>                `--'  ``---.FFFF
+F/  .    ,              ,    o `-.F
+:               ,'      `  _____-`F
+: ,   \    .____..-;``--,-'FFFFFFFF
+F) -. ,'>-..,-.__,' \.-'(\FFFFFFFFF
+:    : / _ /   \  - :\ _ \\,FFFF.F,
+:  _ |F\   )FFF/ _  |:   : `._)_,)/
+F)   |F:`  |FFF:    ;| . ).__'_.-'F
+F:   )F; _ ;FFF|   /F; _ ;FFFFFFFFF
+F) - \F`^^^'FFF; - \F`^^'FFFFFFFFFF
+F'^^^`FFFFFFFFF`^^^'FFFFFFFFFFFFFFF
+7
+FFFFFFFF,-""-.FFFF
+FFFFFFF/  _  _\FFF
+FFFFFF/  /_; ;_\FF
+FFFFF/ ,-.o) (o|FF
+FFFF/ (  =.`-O' )=
+FFF(  \`-. __J.'FF
+FFFF)  )/   (FFFFF
+FFF/_,'/   , \FFFF
+FFFFFF/     \ \FFF
+FFFFF/    -,/\ \FF
+,{ \/       `\`"'F
+{ (        __/__FF
+`{ /\_________)))F
+8
+FFFF/\__/\FFFFFFFFFF
+FFF/`    '\FFFFFFFFF
+F=== o  o ===FFFFFFF
+FFF\  --  /FFFFFFFFF
+FF/        \FFFFFFFF
+F/          \FFFFFFF
+(            )FFFFFF
+F\  ||  ||  /FFFFFFF
+FF\_OO__OO_/#######O
+9
+FFFFFFFFFFFFFFF,,,,FFFFFF
+FFFFFFFFFFFFF.'    `/\_/\
+FFFFFFFFFFF.'       <oIo>
+<((((((((((  )____(  \./F
+FFFFFFFFFFF\( \(FFF\(\(FF
+FFFFFFFFFFFF`-"`-"FF"F"FF
+10
